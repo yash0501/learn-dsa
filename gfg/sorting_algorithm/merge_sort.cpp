@@ -1,3 +1,4 @@
+/* In merge sort, we break the array in two and then arrange it till we get single elements and then merge those elements. */
 // { Driver Code Starts
 #include <stdio.h>
 #include <bits/stdc++.h>
